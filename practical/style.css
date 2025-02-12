@@ -1,0 +1,22 @@
+.container{
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+    margin-top: 50px;
+}
+
+
+.hidden-content{
+    display: none;
+    width: 500px;
+    height: 200px ;
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+.hidden-content.reavel-btn{
+    display: block;
+}
